@@ -13,4 +13,4 @@ Elkan, C. (2001, August). The foundations of cost-sensitive learning. In Interna
 
 Verbeke, W., Olaya, D., Berrevoets, J., & Maldonado, S. (2020). The foundations of cost-sensitive causal classification. arXiv preprint arXiv:2007.12582.
 
-
+Olaya, D., Verbeke, W., Van Belle, J., & Guerry, M. A. (2021). To do or not to do: cost-sensitive causal decision-making. arXiv preprint arXiv:2101.01407.
