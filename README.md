@@ -7,10 +7,14 @@ This repository builds on the foundations of cost-sensitive classification as in
 
 We present the application of the proposed ranking method on synthetic and marketing campaign data to illustrate its potential to boost the profitability of causal models. The logistic regression and extreme gradient boosting machine learning algorithms are chosen to estimate treatment effects based on three different causal learning techniques. Subsequently, we report model performance based on the Qini coefficient and profit metrics.
 
+Related paper:
+
+[Olaya, D., Verbeke, W., Van Belle, J., & Guerry, M. A. (2021). To do or not to do: cost-sensitive causal decision-making. arXiv preprint arXiv:2101.01407.](https://arxiv.org/abs/2101.0140).
+
 References:
 
 Elkan, C. (2001, August). The foundations of cost-sensitive learning. In International joint conference on artificial intelligence (Vol. 17, No. 1, pp. 973-978). Lawrence Erlbaum Associates Ltd.
 
 Verbeke, W., Olaya, D., Berrevoets, J., & Maldonado, S. (2020). The foundations of cost-sensitive causal classification. arXiv preprint arXiv:2007.12582.
 
-Olaya, D., Verbeke, W., Van Belle, J., & Guerry, M. A. (2021). To do or not to do: cost-sensitive causal decision-making. arXiv preprint arXiv:2101.01407.
+
